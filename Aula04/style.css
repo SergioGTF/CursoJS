@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(0, 162, 255);
+    color: white;
+    font: normal 20pt Times; /*Comentário em CSS*/
+}
+
+h1{
+    color: yellow;
+}
